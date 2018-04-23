@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="EXIT.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EXIT\Scripts\BathhScare.cs">
+    <Files>
+      <File FileName="Assets\EXIT\Scripts\Note1.cs" Line="1" Column="1" />
+      <File FileName="Assets\EXIT\Scripts\PinKey.cs" Line="1" Column="1" />
+      <File FileName="Assets\EXIT\Scripts\BathhScare.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
